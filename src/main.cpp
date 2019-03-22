@@ -15,5 +15,6 @@ void loop() {
     /* code */
     Serial.println(count);
   }
+  Serial.println("v2.0");
   
 }
